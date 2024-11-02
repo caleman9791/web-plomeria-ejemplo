@@ -59,6 +59,13 @@ window.onload = (event) => {
         }
 
     }
+    let enlaceInfoContact = document.querySelector(`.info-contact h4`);
+
+    if (enlaceInfoContact) {
+
+        enlaceInfoContact.textContent = `Informacion de contacto`;
+
+    }
 
     // work_sectionText.textContent = "¿Cómo funiona?";
     // about.html
