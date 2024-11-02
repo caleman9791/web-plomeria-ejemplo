@@ -55,7 +55,7 @@ window.onload = (event) => {
 
         for (var i = 0; i < enlaceinicioText.length; i++) {
 
-            enlaceinicioText[i].textContent = `inicio`;
+            enlaceinicioText[i].textContent = `Inicio`;
         }
 
     }
